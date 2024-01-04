@@ -5,13 +5,13 @@ for ($i = 1; $i <= 100; $i++)
 {
   if ( $i% 15 == 0)
    {
-     echo $i . " FizzBizz". "<br>" ;
+     echo $i . " BUZZZ". "<br>" ;
    }
-  else if ( $i% 2 == 0 ) 
+  else if ( $i% 4 == 0 ) 
    {
      echo $i. " Bizz"."<br>";
    }
-     else if ( $i% 4 == 0 ) 
+     else if ( $i% 2 == 0 ) 
    {
      echo $i. " Fizz"."<br>";
    }
