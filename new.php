@@ -1,5 +1,5 @@
 <?php 
-echo "<h1>PHP</h1>";
+echo "<h1>PHP - FIZZBIZZ </h1>";
 
 for ($i = 1; $i <= 100; $i++)
 {
